@@ -6,6 +6,7 @@
 .role-strip b { display:block; font-size:11px; color:#2c444e; }
 .role-strip small { display:block; font-size:9px; color:#99a5a6; margin-top:3px; }
 .notice, .legal-note { background:#fff8eb; border:1px solid #f0dfba; border-left:3px solid var(--yellow); border-radius:7px; padding:13px 16px; color:#7b694a; font-size:11px; margin-bottom:18px; }
+.nav-item[href] { text-decoration:none; }
 .application-list { display:grid; gap:11px; }
 .application-card { background:#fff; border:1px solid #e5e9e8; border-radius:9px; display:grid; grid-template-columns:155px 1fr 155px; gap:22px; align-items:center; padding:20px 22px; box-shadow:var(--shadow); }
 .app-code { font:700 14px 'Playfair Display'; color:#294451; }
